@@ -22,11 +22,6 @@ Java implementation
 C# implementation
 
 Each part contains examples for all the patterns listed above.
-Source Code
-You can find the source code for both Java and C# implementations at the following GitHub repositories:
-
-Java: https://github.com/nhatlenlh/dealing-with-generalization.git
-C#: https://github.com/nhatlenlh/dealing-with-generalization-csharp.git
 
 How to Use
 
